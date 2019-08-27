@@ -1,4 +1,4 @@
-# ninja-smoothies
+# vue-firebase-crud
 
 > A Vue.js project
 
